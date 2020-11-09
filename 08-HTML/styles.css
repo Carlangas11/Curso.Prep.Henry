@@ -1,0 +1,25 @@
+
+			h1 {
+				color: blue;
+				font-size: 50px;
+				margin: 30px;
+			}
+			img {
+				width: 440px;
+				height: 220px;
+			}
+
+			#thirDDiv{
+				background: lightsalmon;
+				width: 540px;
+				height: 940px;
+				padding: 10px;
+				border: 10px solid indianred;
+
+				
+			}
+			#spanId{
+				font-size: 30px;
+				margin: 20px;
+			}
+		
